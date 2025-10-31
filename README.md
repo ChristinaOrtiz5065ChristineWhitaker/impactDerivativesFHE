@@ -1,4 +1,4 @@
-```markdown
+
 # **ImpactDerivativesFHE: A DEX for Encrypted Impact Derivatives Trading**
 
 ImpactDerivativesFHE is a cutting-edge decentralized exchange (DEX) that empowers the trading of FHE-encrypted "impact derivatives" tied to regenerative finance (ReFi) projects. Built on **Zama's Fully Homomorphic Encryption (FHE) technology**, this platform allows users to transact in futures and options contracts tied to future verifiable "impact outputs" from projects like carbon capturing and biodiversity preservation—all while maintaining comprehensive privacy.
